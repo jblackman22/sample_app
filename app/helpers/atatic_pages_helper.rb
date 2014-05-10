@@ -1,0 +1,2 @@
+module AtaticPagesHelper
+end
